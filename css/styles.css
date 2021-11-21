@@ -1,0 +1,190 @@
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.carousel-first {
+  color: #fff;
+}
+
+.carousel-second {
+  color: #5C3D2E;
+}
+
+.carousel-third {
+  color: #2D2424;
+}
+
+.slide-label {
+  /* color: #5C3D2E; */
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 5rem;
+  font-weight:900;
+}
+
+
+/* NAV BAR */
+.navbar-brand {
+  margin-left: 2%;
+}
+
+#navbarTogglerDemo01{
+  margin-right: 2%;
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+.contact-number {
+  font-size: 1.2rem;
+  font-weight: 900;
+  padding-top: 6%;
+  margin: 0 20% 0 0;
+
+}
+
+
+.carousel-item {
+  max-width: 100%;
+}
+
+/* CAROUSEL BANNER*/
+.btn-carousel {
+  border-radius: 100%;
+  margin-left: 90%;
+}
+
+.carousel-control-pre .carousel-control-prev-icon .carousel-control-next .carousel-control-next-icon {
+  color: #8f8f8f;
+}
+
+/* <!-- FEATURES**************************************************************************** --> */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon-feature {
+  color: #3D56B2;
+  margin-bottom: 1rem;
+}
+
+.icon-feature:hover {
+  color: #14279B;
+}
+
+
+/* <!-- TESTIMONIALS**************************************************************************** --> */
+.carousel-item-testimonial {
+  padding: 7% 15%;
+}
+
+
+
+#testimonials {
+  background-color: #3D56B2;
+  color: #fff;
+  /* padding: 7% 15%; */
+  text-align: center;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
+/* <!-- PRESS**************************************************************************** --> */
+#press {
+  background-color: #3D56B2;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+/* <!-- ALBUM**************************************************************************** --> */
+.album-h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.btn-warning:hover {
+  background-color: #fff;
+}
+
+.album-images {
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .6s transform cubic-bezier(.155,1.105,.295,1.12),.6s box-shadow,.6s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  /* padding: 14px 80px 18px 36px; */
+  cursor: pointer;
+}
+
+.album-images:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn-album {
+  border-radius: 100px;
+  margin-top: 5%;
+}
+
+/* <!-- CALL TO ACTION**************************************************************************** --> */
+#cta {
+  background-color: #5C7AEA;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.btn-cta {
+  border-radius: 100px;
+  font-family: 'Ubuntu',sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 3%;
+}
+
+
+/* <!-- FOOTER**************************************************************************** --> */
+#footer {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 15px;
+}
